@@ -77,7 +77,7 @@ else:
  
 
 # Output : 
-
+![model](2.png)
 
 
 
