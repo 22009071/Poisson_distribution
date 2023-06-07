@@ -77,7 +77,8 @@ else:
  
 
 # Output : 
-![model](2.png)
+![image](https://github.com/22009071/Poisson_distribution/assets/120206067/ba0e3213-5304-4693-8069-986c0388eb6f)
+
 
 
 
